@@ -52,7 +52,7 @@ button {
 .btn_equal {
   background-color: mediumseagreen;
   color: white;
-  grid-column: 2 / -1;
+  grid-column: 3 / -1;
 }
 
 button:hover {
